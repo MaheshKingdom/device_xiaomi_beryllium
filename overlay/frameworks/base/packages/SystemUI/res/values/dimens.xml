@@ -38,4 +38,13 @@
 
     <!-- Padding between signal cluster and battery icon -->
     <dimen name="signal_cluster_battery_padding">4dp</dimen>
+
+    <!-- Height of notification icons in the status bar -->
+    <dimen name="status_bar_icon_size">15dp</dimen>
+
+    <!-- size at which Notification icons will be drawn in the status bar -->
+    <dimen name="status_bar_icon_drawing_size">15dp</dimen>
+
+    <!-- Skeleton string format for displaying the date when an alarm is set. -->
+    <string name="abbrev_wday_month_day_no_year_alarm">ddMMyy</string>
 </resources>
